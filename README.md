@@ -17,7 +17,7 @@ solver setup, and results can be tracked independently without one overwriting t
 | Branch | Contents |
 |---|---|
 | [`naca2412-baseline`](../../tree/naca2412-baseline) | Unmodified NACA 2412 airfoil — the reference case |
-| [`gurney-flap`](../../tree/gurney-flap) | Same airfoil with a Gurney flap added at the trailing edge |
+| [`gurney-flap`](../../tree/naca2412-with-gurney-flap) | Same airfoil with a Gurney flap added at the trailing edge |
 
 Each branch has its own README with full setup details, method summary, and results specific to that
 configuration. This main branch serves as the entry point and holds the overall comparison once both
