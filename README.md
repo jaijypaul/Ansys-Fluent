@@ -31,12 +31,5 @@ Full AoA sweep in progress; results being added incrementally to `results/cl_cd_
 ## Validation
 Cl-α curve compared against known NACA 2412 experimental/XFOIL data.
 
-## How to Reproduce
-1. Import curve files from `geometry/` into DesignModeler/SpaceClaim (Concept → 3D Curve → From Coordinates File)
-2. Generate the closed airfoil surface (Concept → Surfaces From Edges)
-3. Build the enclosure/farfield domain and mesh per settings in `mesh_journal/`
-4. Set up Fluent per `fluent_journal/` (or replay the journal directly)
-5. Sweep AoA by updating the Velocity Inlet X/Y components and force-coefficient direction vectors for each run
-
 ## Author
-*(your name)* — M.Tech, Thermal and Fluids Engineering, IIT Bombay
+Jaijy Paul — M.Tech, Thermal and Fluids Engineering, IIT Bombay
