@@ -57,4 +57,4 @@ CFD for every configuration.
 - Validation of baseline against NACA 2412 experimental/XFOIL data
 
 ## Author
-Jaijy Paul — M.Tech, Thermal and Fluids Engineering, IIT Bombay, supervised by Prof. Rajneesh Bhardwaj
+Jaijy Paul — M.Tech, Thermal and Fluids Engineering, IIT Bombay
